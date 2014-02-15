@@ -1,0 +1,18 @@
+<profiler-config>
+    <!-- <csv-results>c:/tmp/profiler/out</csv-results> -->
+    <frequency-output-seconds>20</frequency-output-seconds>
+    <precision>MS</precision>
+    <default-min-threshold>2</default-min-threshold>
+    <maxStackDataCount>100000</maxStackDataCount>
+    <maxMethodCount>50000</maxMethodCount>
+    <includeClassInit>true</includeClassInit>
+    <includeInit>true</includeInit>
+    <resetOnOutput>false</resetOnOutput>
+    <initialDelayOutput>40</initialDelayOutput>
+    <include>
+        <class name="org[./]jboss[./].*" method=".*" min-threshold="2" />
+    </include>
+    <exclude>
+        <class name="TestProfile" method="main" />
+    </exclude>
+</profiler-config>

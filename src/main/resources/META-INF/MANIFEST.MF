@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: asm-all-3.3.1.jar
+Premain-Class: com.greenit.profiler.Main
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Can-Set-Native-Method-Prefix: true
