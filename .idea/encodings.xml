@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/greenit/profiler/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/greenit/profiler/configuration/ClassMethodRegex.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/greenit/profiler/configuration/ConfigHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/greenit/profiler/configuration/ProfilerProperties.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/greenit/profiler/service/PubishService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/greenit/profiler/service/StatisticsService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/greenit/profiler/statistics/SummaryMetrics.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/greenit/profiler/util/StringFunction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/greenit/profiler/writer/CSVWriter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/greenit/profiler/writer/DailyLogWriterImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/greenit/profiler/writer/LogWriter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/greenit/profiler/writer/SystemLogWriter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/greenit/profiler/writer/XMLWriter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mentorgen/profile/runtime/Frame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mentorgen/profile/runtime/FrameKey.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mentorgen/profile/runtime/MethodDescriptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mentorgen/profile/runtime/Metrics.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mentorgen/profile/runtime/Profile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mentorgen/tools/profile/instrument/AdapterFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mentorgen/tools/profile/instrument/ClassMethodFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mentorgen/tools/profile/instrument/SimpleClassAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mentorgen/tools/profile/instrument/SimpleMethodAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mentorgen/tools/profile/instrument/Transformer.java" charset="UTF-8" />
+  </component>
 </project>
 
